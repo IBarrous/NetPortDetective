@@ -10,4 +10,5 @@ NetPortDetective classifies the discovered open ports to 4 classes:
   <li>Active Directory Ports</li>
   <li>Other Ports</li>
 </ul>
-![Screenshot 2024-04-28 195736](https://github.com/IBarrous/NetPortDetective/assets/126162952/c2ec5648-3694-4fc0-b418-ec244366a192)
+
+![first](https://github.com/IBarrous/NetPortDetective/assets/126162952/c2ec5648-3694-4fc0-b418-ec244366a192)
