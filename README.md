@@ -6,7 +6,7 @@ NetPortDetective is a bash script designed to automate host discovery on an inte
 <pre><code>./NetPortDetective.sh</code>
 </pre>
 <h3>Details: </h3>
-NetPortDetective runs a Host Discovery Scan, identifies open ports and classifies them to 4 classes:
+NetPortDetective runs a Host Discovery Scan, identifies open ports and classifies them to 5 classes:
 <ul>
   <li>Web Ports</li>
   <li>DataBase Ports</li>
