@@ -1,6 +1,10 @@
 # NetPortDetective
 <h3>Description: </h3>
 NetPortDetective is a bash script designed to automate host discovery on an internal network, identify their open ports, classify the services and run a thorough scan on discovered web applications.
+<h3>Usage: </h3>
+<pre> <code>chmod +x NetPortDetective.sh</code></pre>
+<pre><code>./NetPortDetective.sh</code>
+</pre>
 <h3>Details: </h3>
 NetPortDetective runs a Host Discovery Scan, identifies open ports and classifies them to 4 classes:
 <ul>
@@ -20,4 +24,7 @@ NetPortDetective also identifies the Technologies used to build the discovered w
 ![second](https://github.com/IBarrous/NetPortDetective/assets/126162952/3964c068-c05d-409c-be85-368cdc65eb0b)
 
 <h3>Note: </h3>
-Running NetPortDetective as a root or with sudo is recommended as it might require high privileges to install certain dependencies and run certain scans.
+<ul>
+ <li>Running NetPortDetective as a root or with sudo is recommended as it might require high privileges to install certain dependencies and run certain scans.</li>
+ <li>NetPortDetective works best on Kali Linux since it uses its built in tools (cmseek, nikto, wpscan ...)</li>
+</ul>
